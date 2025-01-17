@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aviationinfo720
-- 👀 I’m interested in Aviation, Python
-- 🌱 I’m currently learning Discord.py
-- 💞️ I’m looking to collaborate on anything tbh
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Android App Development
+- 💞️ I’m looking to collaborate on anything to be honest
 - 📫 How to reach me: discordapp.com/users/1130883869625815232
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i have ambitions to create my own linux distro which can be used for simple computing usage
